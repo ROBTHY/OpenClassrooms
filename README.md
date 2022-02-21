@@ -1,2 +1,2 @@
 # OpenClassrooms
-Dépôt du fichiers du PremierProjet (Cours OC)
+Dépôt des fichiers du PremierProjet (Cours OC)
